@@ -3,5 +3,6 @@ the Rainbow
 purple
 red
 blue
+Green
 yellow
 these are the colores of the rainbow
