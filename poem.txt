@@ -4,5 +4,6 @@ purple
 red
 blue
 Green
+pink
 yellow
 these are the colores of the rainbow
